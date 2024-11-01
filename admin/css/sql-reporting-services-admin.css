@@ -1,0 +1,19 @@
+/*
+ * CSS for the Module Masters SQL Reporting Services WordPress Plugin
+*/
+.ssrs_error {
+    background-color: LemonChiffon;
+    font-size: 10pt;
+    font-family: verdana;
+    color: black;
+    border: solid;
+    border-color: crimson;
+    padding: 10px;
+}
+
+.ssrs_error h3 {
+    color: crimson;
+    font-family: verdana;
+    font-size: 14pt;
+    background-color: LemonChiffon;
+}

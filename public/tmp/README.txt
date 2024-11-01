@@ -1,0 +1,1 @@
+#You can remove the files in this directory, they are temporary images embedded in the SSRS report created at runtime so they can render as HTML
